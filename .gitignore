@@ -1,20 +1,13 @@
-# Database files
 *.db
 *.sqlite3
-
-# Python bytecode
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Environment files
 .env
 .venv
 env/
 venv/
 ENV/
-
-# OS files
 .DS_Store
 .DS_Store?
 ._*
